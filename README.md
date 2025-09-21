@@ -1,1 +1,1 @@
-# algo-formula
+# interview-oriented-formula
